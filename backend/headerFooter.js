@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         <div>
             <ul>
-                <li class="nav-link active"><a href="DesignExample.html">Home</a></li>
+                <li class="nav-link active"><a href="index.html">Home</a></li>
                 <li class="nav-link"><a href="gallery.html">Gallery</a></li>
                 <li class="nav-link"><a href="aboutUs.html">About Us</a></li>
                 <li class="nav-link"><a href="reviews.html">Reviews</a></li>
